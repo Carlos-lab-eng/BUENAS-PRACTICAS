@@ -37,6 +37,7 @@ This project uses next/front to automatically optimize and load Geist, a new fon
 -Integrante 2: Alvaro Gomez
 -Integrabte 3: Junior Roca 
 -Integrante 4: Diego Theran López
+hola
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
